@@ -1,7 +1,7 @@
-Log file started Mon Dec 20 15:18:48 2010
-Mon Dec 20 15:18:48 2010: WSAStartup OK
-Mon Dec 20 15:18:52 2010: CLobby::Disconnect
-Mon Dec 20 15:18:52 2010: SendPacket error: Could not send because the client is disconnected
-Mon Dec 20 15:18:52 2010: CSignin::Disconnect
-Mon Dec 20 15:18:52 2010: SendPacket error: Could not send because the client is disconnected
-Mon Dec 20 15:18:52 2010: Error code 10038: recvfrom() : Unknown error
+Log file started Thu Dec 23 10:55:28 2010
+Thu Dec 23 10:55:28 2010: WSAStartup OK
+Thu Dec 23 10:55:33 2010: CLobby::Disconnect
+Thu Dec 23 10:55:33 2010: SendPacket error: Could not send because the client is disconnected
+Thu Dec 23 10:55:33 2010: CSignin::Disconnect
+Thu Dec 23 10:55:33 2010: SendPacket error: Could not send because the client is disconnected
+Thu Dec 23 10:55:33 2010: Error code 10038: recvfrom() : Unknown error
